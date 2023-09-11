@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="540a0c13-40f0-4ae8-b9b4-b0407b68fc18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/excel2csv/ExcelToCsvApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/excel2csv/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/excel2csv/parameter/ParamDestinationFolderValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/excel2csv/parameter/ParamSourceFileValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/excel2csv/parameter/Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/excel2csv/ExcelToCsvApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/excel2csv/controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/excel2csv/parameter/ParamDestinationFolderValidator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/excel2csv/parameter/ParamSourceFileValidator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/excel2csv/parameter/Parameters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/excel2csv/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/excel2csv/ExcelToCsvConverter.java" beforeDir="false" />
-    </list>
+    <list default="true" id="540a0c13-40f0-4ae8-b9b4-b0407b68fc18" name="Changes" comment="init JCommands" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +53,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.excel2csv.ExcelToCsvApp" />
+      <module name="Excel_to_CSV_converter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,11 +73,23 @@
       <workItem from="1692700438603" duration="195000" />
       <workItem from="1692715804582" duration="1045000" />
       <workItem from="1692716972574" duration="71000" />
-      <workItem from="1694442769618" duration="733000" />
+      <workItem from="1694442769618" duration="901000" />
     </task>
+    <task id="LOCAL-00001" summary="init JCommands">
+      <created>1694443583700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694443583700</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init JCommands" />
+    <option name="LAST_COMMIT_MESSAGE" value="init JCommands" />
   </component>
 </project>
